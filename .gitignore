@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Large files (use Git LFS if needed)
+*.zip
+*.tar.gz
+
